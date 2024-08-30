@@ -1,0 +1,36 @@
+Portfolio:
+  Eu ainda não dei um primeiro passo no mercado de trabalho. Estou atualmente estudando análise e desenvolvimento de sistemas, com previsão de terminar no primeiro semestre de 2025 e ainda não consegui um estágio. Estando assim, tão perto de terminar uma faculdade e saber que encontrar um estágio depois de já ter se formado é mais difícil é, sinceramente, muito desesperador. Tentar entrar no mercado de trabalho de desenvolvimento pode ser muito desafiador as vezes, me sinto insegura em relação a s minhas habilidades profissionais e de comunicação. Meu medo muitas vezes me paralisa e me atrapalha em me comunicar e me expressar, sendo um desafio que eu lido e luto todos os dias a fim de melhorar. 
+  EU fiquei muito tempo apenas encarando meu notebook e caderno, achando que apenas chegar até o final deste curso já seria uma conquista. E permaneci neste pensamento focada, sem nem me importar em conectar com meus amigos e compartilhar experiências, medos e ansiedades. Fiquei todo este tempo apenas guardando meus pensamentos para mim. Até que eu um dia decidi ouvir minha amiga de escola, que tinha me chamado para paryicipar num curso de formação de devs full stack. Eu de inicío, não dei tanto valor - não ao curso mas a mim mesmo - mas eu tentei até porque era de graça e eu podia estudar no conforto da minha casa. Lá eu descobri o porque eu tinha me interessado em front-end e programação antes: o desafio de aprender coisas novas e de ver o que você estudou tomando forma. Eu só tinha esquecido desse prazer pela insegurança e pela minha covardia: Covardia esta de fazer e não dar certo, do que iriam pensar de mim, de não conseguir o que eu planejei de início.
+  Mas refletindo um pouco mais eu descobri que nossa jornada está repleta de obstáculos e desafios a serem rompidos, basta ter a vontade de jogar a cara e romper estes desafios. Jogar a cara mesmo, talvez seus braços, pernas e se arrebentar todo mas romper as barreiras - isso me lembra um hino gospel.
+Tendo então tomado vergonha na cara, decidi dar meu primeiro passo: Me apresentar ao mundo. Quero mostrar meu anseios, meus objetivos profissionais, mostrar o quanto estou disposta a cumpri-los e a crescer profissionalmente. E quando for notada, poderei finalmente aperfeiçoar minhas capacidades profissionais, mas antes, quero mostrar que estou disposta a ser uma boa escolha. Não a melhor pois acredito que sempre tenho algo a melhorar, mas com o que aprendi, sei que posso acrescentar valor.
+
+Sentimentos que quero passar no meu portfolio:
+novidade
+comprometimento
+confiança
+valor
+otimismo
+
+Cores:
+azul
+amarelo
+roxo
+
+azul: 2549F9
+amarelo compl: #f9d625
+roxo compl: #6c25f9
+
+
+
+componentes:
+title - título das seções
+props: title
+height: 56px, className
+
+section - tag section
+child: title, contente
+props: child, className
+
+list - tag ul para a seção habilidades, de redes sociais dentro da seção sobre mim e do texto sobre os projetos
+dentro da seção projetos.
+props: title, contente, list-style-image
