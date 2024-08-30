@@ -13,6 +13,10 @@ export default {
         "accent-pink": "#F525F9",
         "white": "#F8F8F8",
         "black": "#000000"
+      },
+      fontFamily: {
+        PeaceSans: ['PeaceSans', 'sans-serif'],
+        Montserrat: ['Montserrat', 'sans-serif']
       }
     },
   },

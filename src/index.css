@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "PeaceSans";
+        src: 
+            url("../public/fonts/Peace-Sans-Webfont.ttf") format("truetype"),
+            url("../public//fonts/Peace-Sans.otf") format("opentype");
+    }
+}
+
+*{
+    font-family: 'Montserrat';
+}
