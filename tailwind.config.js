@@ -19,6 +19,13 @@ export default {
         Montserrat: ['Montserrat', 'sans-serif']
       }
     },
+    screens: {
+      sm: '640px',   // Pequenas telas como tablets em portrait
+      md: '768px',   // Telas médias como tablets em landscape
+      lg: '1024px',  // Laptops pequenos
+      xl: '1280px',  // Laptops maiores ou desktops pequenos
+      '2xl': '1536px', // Desktops grandes
+    },
   },
   plugins: [],
 }

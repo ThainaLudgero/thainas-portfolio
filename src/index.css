@@ -6,8 +6,8 @@
     @font-face {
         font-family: "PeaceSans";
         src: 
-            url("../public/fonts/Peace-Sans-Webfont.ttf") format("truetype"),
-            url("../public//fonts/Peace-Sans.otf") format("opentype");
+            url("../src/assets/fonts/Peace-Sans-Webfont.ttf") format("truetype"),
+            url("../src//assets/fonts/Peace-Sans.otf") format("opentype");
     }
 }
 
