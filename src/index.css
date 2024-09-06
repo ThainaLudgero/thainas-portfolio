@@ -14,3 +14,7 @@
 *{
     font-family: 'Montserrat';
 }
+
+.container{
+    max-width: 1545px;
+}
